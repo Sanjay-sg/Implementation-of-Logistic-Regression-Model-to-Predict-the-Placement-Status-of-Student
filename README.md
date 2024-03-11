@@ -14,10 +14,9 @@ To write a program to implement the the Logistic Regression Model to Predict the
 4.Using logistic regression find the predicted values of accuracy , confusion matrices. 
 
 ## Program:
-```
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: SANJAY G
-RegisterNumber: 212222230131
+Developed by: Sanjay G
+RegisterNumber:212222230131
 ```
 
 import pandas as pd
